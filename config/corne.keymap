@@ -140,7 +140,7 @@
 
         Primary_2 {
             bindings = <
-&trans  &kp TAB         &kp LEFT_ALT          &kp SEMI               &kp SINGLE_QUOTE  &kp RIGHT_ALT    &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3       &kp NUMBER_4  &kp N5     &trans
+&trans  &kp LEFT_ALT    &kp TAB               &kp SEMI               &kp SINGLE_QUOTE  &kp RIGHT_ALT    &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3       &kp NUMBER_4  &kp N5     &trans
 &trans  &kp CLCK        &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp QUESTION      &kp EXCL         &kp NUMBER_6  &kp N7        &kp N8             &kp N9        &kp N0     &trans
 &trans  &kp LEFT_SHIFT  &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp TILDE         &kp PIPE         &kp EQUAL     &kp MINUS     &kp SLASH          &kp PLUS      &kp ASTRK  &trans
                                               &trans                 &kp DOWN          &kp LEFT         &kp RIGHT     &kp UP_ARROW  &kp RIGHT_CONTROL
